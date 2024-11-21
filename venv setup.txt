@@ -1,0 +1,4 @@
+1. Run "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass" to enable activation
+2. Navigate to the venv folder within directory "cd/venv/Script"
+3. run activation script ".\activate"
+
